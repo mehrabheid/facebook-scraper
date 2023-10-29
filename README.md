@@ -1,2 +1,6 @@
-# facebook-scraper
-facebook scraper with get media links
+# twitter-scraper
+twitter scraper with get media links
+
+MySQL database Object
+
+
